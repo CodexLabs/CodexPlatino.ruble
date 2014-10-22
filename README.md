@@ -8,6 +8,7 @@ CodexPlatino.ruble is a Titanium Studio add-on (ruble) will actually give the de
 
 The project template uses Alloy.
 
+
 ### Features
 
 **Codex Platino Project Template** Go to `File > New > Mobile Project` and there will be a new *Codex Platino* entry in the sidebar. This will generate a blank project and an empty starter scene to help you get up and running with a new Platino project quickly!
@@ -27,4 +28,6 @@ How to install
 
 When starting a new Platino project, you'll still need to add the Platino module to your tiapp.xml or you'll get a build error. In Titanium/Appcelerator Studio, double-click on the tiapp.xml file under your project, and add Platino to the 'Modules' section (on the far right).
 
+### Additional Note: 
 
+Consider checking out [https://CodexCasts.com](https://CodexCasts.com) episode 6 on Titanium Studio Rubles, where we built this program live.
