@@ -20,7 +20,7 @@ How to install
 ----
 
 0. Install Titanium Studio.
-1. Download the [latest Platino.ruble release](https://github.com/CodexLabs/CodexPlatino.ruble/)
+1. Download the [latest CodexPlatino.ruble release](https://github.com/CodexLabs/CodexPlatino.ruble/releases/)
 2. Unzip to ~/Documents/Aptana Rubles (there should be a folder named CodexPlatino.ruble after you extract the zip).
 3. Restart Titanium Studio.
 
